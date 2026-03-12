@@ -16,15 +16,15 @@ A 3D Graphics Engine built from scratch using C++ and OpenGL 4.1. This project w
 - **Libraries:** GLFW, GLM, Glad
 
 ## Project Structure
-- `Carnival-ProjectGP/` - Core engine classes, logic, and GLSL shaders.
-- `assets/` - 3D models and scene configurations.
-- `cubemap/` - Skybox textures and environment maps.
-- `imgdoc/` - Project documentation and screenshots.
+- `Carnival-ProjectGP/` - Core engine source code: classes (.cpp, .h), shaders (.glsl), and internal resources.
+- `Carnival-ProjectGP.slnx` - Visual Studio solution file to open and build the project.
+- `Carnival_GP_Doc.pdf` - Comprehensive technical documentation and project report.
+- `README.md` - Project overview and documentation.
 
-## ⚙️ How to Run
+## How to Run
 1. Clone the repository.
 2. Open `Carnival-ProjectGP.slnx` in Visual Studio 2022.
-3. Ensure all dependencies are linked correctly.
+3. Ensure all dependencies are correctly linked in the project properties.
 4. Build and Run in **Debug** or **Release** (x64).
 
 ---
