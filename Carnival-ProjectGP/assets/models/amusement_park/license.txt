@@ -1,0 +1,11 @@
+Model Information:
+* title:	Amusement park
+* source:	https://sketchfab.com/3d-models/amusement-park-33d83e7028824fc68e544e05fcdba541
+* author:	Megame Studio (https://sketchfab.com/megame1)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Amusement park" (https://sketchfab.com/3d-models/amusement-park-33d83e7028824fc68e544e05fcdba541) by Megame Studio (https://sketchfab.com/megame1) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
